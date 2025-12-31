@@ -1,5 +1,4 @@
-<!--
-**akash-kanar/akash-kanar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,12 +13,12 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Akash
 
-- 🔧 Full-Stack Developer based in Bhubaneswar, India.
-- 📬 How to reach me: [k.akashkumar2005@gmail.com](mailto:k.akashkumar2005@gmail.com)
+- 🔧 Web Developer based in Bhubaneswar, India.
+- 📬 How to reach me: [mohantysachidananda7@gamil.com](mailto:mohantysachidananda7@.com)
 - 🧠 Solved 168+ LeetCode problems, showcasing strong skills in Java, C++, and Python.
 - 🌟 Starred projects like a Chatbot and Spotify Clone, shining with sleek UI and solid backend logic.
-- 🔗 Rocking a cool 400+ connections on [LinkedIn](https://www.linkedin.com/in/akash-kanar/)!
-- 🚀 Development sparked my coding passion—now it’s a lifelong affair! Dive into my [portfolio](#).
+- 🔗 Rocking a cool 400+ connections on [LinkedIn](www.linkedin.com/in/sachidananda-mohanty-a1a0933a2)!
+- 🚀 Development sparked my coding passion—now it’s a lifelong affair! Dive into my [portfolio](https://mohantysachidananda7-prog.github.io/My-portfolio/).
 
 ---
 
